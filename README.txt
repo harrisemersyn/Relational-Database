@@ -5,6 +5,3 @@ a program to make queries from the relational database, and then demonstrate pro
 Notes:
 -We were not given a file to read from, so that's why all of the information used is hard-coded into the main. 
 -The '*' symbol represents any value.
--I created this project in 2020, over a year ago, and I've grown a lot as a programmer since then. I think there is a lot that
-I could improve on with this project (and make more readable), but I will have to save the improvements until I get a spare moment
-from my other current projects.
